@@ -1,15 +1,16 @@
 [
     {
-        "LIMITWALLETPRIVATEKEY": "do not enter it manually, open the bot : it will encrypt it",
-        "LIMITWALLETADDRESS": "wallet address where you hold your LIMIT tokens",
-        "WALLETADDRESS": "wallet address you want to trade on : can be different from LIMIT wallet",
-        "PRIVATEKEY": "do not enter it manually, open the bot : it will encrypt it",
-	"USECUSTOMNODE": "false",
-        "CUSTOMNODE": "put your own node here if you want and make, USECUSTOMNODE = TRUE",
+        "LIMITWALLETPRIVATEKEY": "aes:+tWba814IPTRO4wqXR+SkMnd4j+pQ9iMuUILcLZbhIgRUiC75vl92qTRYR9ktToq3nGeTyqnj5RiG1AES2SNAQ==*5Sv+DV4N01Jd2V0Z5//w/g==*oTpa5JWwJqyGMNoFyaiEQw==*wUrMr063x3gx0UK7L9NGxg==",
+        "LIMITWALLETADDRESS": "0x56f3C627b7099Cbe47aa9154e741B7520089cE05",
+        "WALLETADDRESS": "0x56f3C627b7099Cbe47aa9154e741B7520089cE05",
+        "PRIVATEKEY": "aes:cz9m9cQm9UylHC6/AbhEWZG2eSxguSGjtVPNIxZ3AnyW5OveBmHjNgQ3XgBGx7o/SE+zKMnXQBFD+cFB9qfMqA==*93OsM6u6LLR0bSh2ysjTVg==*DXvVC1yiTacgMAM23kioGg==*gA11r5CEiTm1HrM5qdlm9w==",
+        "USECUSTOMNODE": "false",
+        "CUSTOMNODE": "http://bsc.chubb.prv/",
         "EXCHANGE": "pancakeswap",
-		"EXCHANGEVERSION": "2",
-		"PREAPPROVE": "true",
-		"UNLIMITEDSLIPPAGE": "false"
+        "EXCHANGEVERSION": "2",
+        "PREAPPROVE": "true",
+        "UNLIMITEDSLIPPAGE": "false",
+        "ENCRYPTPRIVATEKEYS": "true"
     }
-]
-
+    ]
+    
